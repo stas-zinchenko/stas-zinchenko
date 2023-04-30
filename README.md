@@ -1,16 +1,34 @@
-### Hi there 👋
+Stanislav Zinchenko
 
-<!--
-**redman-dev29/redman-dev29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a system administrator with 8 years of experience. I want to learn and test my skills on something new. Therefore, now I am mastering Devops Engineer.
 
-Here are some ideas to get you started:
+SKILLS:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Windows Client/Server, Linux Workstation/Server, SQL, Networking, Virtualization.
+
+EXPERIENCE:
+
+1. Systems Administrator
+The head office of the State Production and Consumer Service in Cherkasy region;
+2. Systems Administrator
+Intek-Inform / Cherkasy;
+3. Systems Administrator
+Mykhailivska United Territorial Community / Mykhailivka, Cherkassy region;
+4. IT engineer
+Premier Plaza LTD / Cherkasy;
+
+EDUCATION:
+
+Smilyan Industrial and Economic College of Cherkasy State Technological University
+Specialization: Technician-programmer
+
+CERTIFICATES:
+
+1. Basics of information security
+Organizer: Kiev Polytechnic Institute;
+2. Python Start
+Organizer: Prog Academy
+
+LINK:
+
+www.linkedin.com/in/stanislav-zinchenko-09b596255
