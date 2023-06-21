@@ -31,4 +31,4 @@ Organizer: Prog Academy
 
 LINK:
 
-www.linkedin.com/in/stanislav-zinchenko-09b596255
+www.linkedin.com/in/stanislav-zinchenko2
