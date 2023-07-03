@@ -12,6 +12,7 @@ SKILLS:
 - Docker/Podman
 - Kubernetes
 - Git
+- GitOps
 - SQL
 - Networking
 - Virtualization.
