@@ -10,6 +10,8 @@ SKILLS:
 - Golang
 - CI/CD
 - Docker/Podman
+- Jankins
+- Groovy
 - Kubernetes
 - Git
 - GitOps
